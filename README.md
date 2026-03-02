@@ -60,8 +60,8 @@ Sigue los pasos a continuación para ejecutar el proyecto localmente sin errores
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Sebaspino/SerenityLab-NT.git
-cd SerenityLab-NT
+git clone https://github.com/Sebaspino/SerenityLab-F2.git
+cd SerenityLab-F2
 ```
 
 ### 2. Instalar dependencias
